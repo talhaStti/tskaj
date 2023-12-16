@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/2c/88/fb/2c88fb4b14f508c2f6a95386d54ed99b.jpg)]
+![MasterHead](https://i.pinimg.com/originals/2c/88/fb/2c88fb4b14f508c2f6a95386d54ed99b.jpg)
 <h1 align="center">Hi 👋, I'm Abdullah Javed</h1>
 <h3 align="center">"Passionate Code Artist and a writer from Pakistan 🚀✨"</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/75/fe/ec/75feec7d2a02e8095331ae310025653b.gif">
