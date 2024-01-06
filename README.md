@@ -24,7 +24,7 @@
 <a href="https://dev.to/@tskaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@tskaj" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abdullah-javed-a17b3629b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-javed-a17b3629b" height="30" width="40" /></a>
 <a href="https://fb.com/tskaj0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tskaj0" height="30" width="40" /></a>
-<a href="https://instagram.com/tsk._aj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tsk._aj" height="30" width="40" /></a>
+<a href="[https://www.instagram.com/tskaj0/]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tsk._aj" height="30" width="40" /></a>
 <a href="https://medium.com/@aj.sure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aj.sure" height="30" width="40" /></a>
 <a href="https://discord.gg/tsk._aj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tsk._aj" height="30" width="40" /></a>
 </p>
